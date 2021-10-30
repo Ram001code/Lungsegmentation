@@ -1,7 +1,5 @@
 
 
-#https://github.com/nikhilroxtomar/Lung-Segmentation-in-TensorFlow-2.0/blob/main/UNET/eval.py
-#https://github.com/nikhilroxtomar/Unet-for-Person-Segmentation/blob/main/test.py
 
 
 import os
